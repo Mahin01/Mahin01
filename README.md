@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Mahin Rahman.A Passionate full stack developer
 - 👀 I’m interested in designing, developing & testing web based application
-- 🌱 I’m currently learning Raect, Redux, Express, Node.js,MongoDB.
-- 💞️ I’m looking to collaborate on PHP projects
+- 🌱 I’m currently learning Nextjs, PostgreSQL, GraphQL, Prisma, Docker.
+- 💞️ I’m looking to collaborate on MERN projects
 - 📫 How to reach me mahinrahman9815@gmail.com
 
 <!---
